@@ -12,11 +12,11 @@
    - ✅ "Looking at opportunities" 👀
    - ✅ "The Stack's Choice" 📌
    - ✅ "Up to two years in 2 months" 🔥
-   - ✅ "The extra mile" 🚀   
-   - ✅ "Corrigir o bug, de pelo motivo do nome da casa de acolhimento ser muito grande, o nome desconfigurar o popup no mapa."🚀<br>
-   - ✅ "Colocar um numero máximo de imagens que podem ser colocadas, para não sobrecarregar a pagina dos orfanatos com muitas imagens" 🚀 <br>
-   - ✅ "Ao clicar na logo, redirecionar para a pagina inicial do site" 🚀<br>
-   - ✅ "Não deixar o usuário criar o orfanato sem informar a localização da casa de acolhimento" 🚀<br>
+   - ✅ "The extra mile" 🚀
+   - ✅ "Corrigir o bug, de pelo motivo do nome da casa de acolhimento ser muito grande, o nome desconfigurar o popup no mapa"🚀
+   - ✅ "Colocar um numero máximo de imagens que podem ser colocadas, para não sobrecarregar a pagina dos orfanatos com muitas imagens" 🚀
+   - ✅ "Ao clicar na logo, redirecionar para a pagina inicial do site" 🚀
+   - ✅ "Não deixar o usuário criar o orfanato sem informar a localização da casa de acolhimento" 🚀
 
   <h2 align="center">Preview 💻</h2>
 
