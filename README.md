@@ -12,8 +12,7 @@
    - ✅ "Looking at opportunities" 👀
    - ✅ "The Stack's Choice" 📌
    - ✅ "Up to two years in 2 months" 🔥
-   - ✅ "The extra mile" 🚀
-   
+   - ✅ "The extra mile" 🚀   
    - ✅ "Corrigir o bug, de pelo motivo do nome da casa de acolhimento ser muito grande, o nome desconfigurar o popup no mapa."🚀<br>
    - ✅ "Colocar um numero máximo de imagens que podem ser colocadas, para não sobrecarregar a pagina dos orfanatos com muitas imagens" 🚀 <br>
    - ✅ "Ao clicar na logo, redirecionar para a pagina inicial do site" 🚀<br>
