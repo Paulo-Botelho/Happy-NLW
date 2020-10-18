@@ -6,8 +6,28 @@
   </a>
 </p>
 
-> O Happy é um projeto para facilitar visitas aos orfanatos próximos a você! Este é um projeto desenvolvido durante a NLW, realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.
+> O Happy é um projeto para facilitar visitas a casas de acolhimento próximos a você! Este é um projeto desenvolvido durante a NLW, realizada pela @Rocketseat durante os dias 12 a 18 de Outubro de 2020.
 
+   - ✅ "Accelerating Your Evolution" 💪
+   - ✅ "Looking at opportunities" 👀
+   - ✅ "The Stack's Choice" 📌
+   - ✅ "Up to two years in 2 months" 🔥
+   - ✅ "The extra mile" 🚀
+<br>
+<br>
+<br>
+   - ✅ "Corrigir o bug, de pelo motivo do nome da casa de acolhimento ser muito grande, o nome desconfigurar o popup no mapa."🚀
+   - ✅ "Colocar um numero máximo de imagens que podem ser colocadas, para não sobrecarregar a pagina dos orfanatos com muitas imagens" 🚀
+   - ✅ "Ao clicar na logo, redirecionar para a pagina inicial do site" 🚀
+   - ✅ "Não deixar o usuário criar o orfanato sem informar a localização da casa de acolhimento" 🚀
+---
+  <h2 align="center">Preview 💻</h2>
+
+   <p align="center">
+      <img src="https://user-images.githubusercontent.com/70411064/96376711-edd5bf00-1156-11eb-9734-91c431eee7c6.png" width="90%" alt="Happy Demo"/>
+
+   </p>
+---
 ## Install
 
 ```sh
